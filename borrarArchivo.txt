@@ -1,3 +1,0 @@
-# Este archivo debe desaparecer despues de usar
-
-git revert
